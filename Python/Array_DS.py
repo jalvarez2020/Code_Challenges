@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/arrays-ds/problem
+#https://www.hackerrank.com/challenges/arrays-ds/problem
 
 #!/bin/python3
 

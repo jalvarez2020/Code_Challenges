@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/staircase/problem
+#https://www.hackerrank.com/challenges/staircase/problem
 
 import os
 import sys
@@ -9,7 +9,7 @@ import sys
 def staircase(n):
     hashbrown = "#"
     for i in range(1, n + 1):
-        print(('#' * i).rjust(n))
+        print(( hashbrown * i).rjust(n))
     #
     # Write your code here.
     #
