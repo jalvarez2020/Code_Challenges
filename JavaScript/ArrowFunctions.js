@@ -27,7 +27,7 @@ function modifyArray(nums) {
 
 function modifyArray(nums) {
 
-    const sumArr = nums.map( x => x % 2 === 0 ? x * 2 : x * 3)
+    const sumArr = nums.map( x => x % 2 === 0 ? x * 2 : x * 3 )
     
     return sumArr
 }
